@@ -8,4 +8,4 @@ using Python to share with
 
 1. [Weekly Challenge 1](WC_01.ipynb)  
     1. [Weekly Challenge_1 using a Reference Postcode Table](WC_01-with_master_range.ipynb) This is more like the Alteryx Challenge itself, and probably faster and easier.  
-1. [Weekly Challenge_2](WC_02.ipynb)
+1. [Weekly Challenge 2](WC_02.ipynb)
