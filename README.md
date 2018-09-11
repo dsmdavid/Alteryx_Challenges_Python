@@ -10,3 +10,4 @@ using Python to share with
     1. [Weekly Challenge_1 using a Reference Postcode Table](WC_01-with_master_range.ipynb) This is more like the Alteryx Challenge itself, and probably faster and easier.  
 1. [Weekly Challenge 2](WC_02.ipynb) -- Delimited Data  
 1. [Weekly Challenge 3](WC_03.ipynb) -- Rolling Sum  
+1. [Weekly Challenge 4](WC_04.ipynb) -- Parsing Dates  
