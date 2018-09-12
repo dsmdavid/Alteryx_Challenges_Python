@@ -4,7 +4,7 @@ using Python to share with
 ![TIL Logo Alteryx PotY 2018](https://www.theinformationlab.co.uk/wp-content/uploads/2016/01/Alteryx-PotY-Colour@0.5x-e1528189341933.png)  
 (*[The Information Lab](https://theinformationlab.co.uk/)*)
 
-Now branched as _The ARP Challenge_ 
+Now branched as [_The ARP Challenge_](https://github.com/The-ARP-Challenge/Challenges)  
 ![ARP Challenge](https://avatars0.githubusercontent.com/u/42900357?s=400&u=28e0f630142a4c68cbde7316db1f9914801d2be6&v=4)
 
 ## Index
