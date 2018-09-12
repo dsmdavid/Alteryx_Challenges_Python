@@ -5,7 +5,7 @@ using Python to share with
 (*[The Information Lab](https://theinformationlab.co.uk/)*)
 
 Now branched as [_The ARP Challenge_](https://github.com/The-ARP-Challenge/Challenges)  
-![ARP Challenge](https://avatars0.githubusercontent.com/u/42900357?s=400&u=28e0f630142a4c68cbde7316db1f9914801d2be6&v=4)
+[![ARP Challenge](https://avatars0.githubusercontent.com/u/42900357?s=400&u=28e0f630142a4c68cbde7316db1f9914801d2be6&v=4)](https://github.com/The-ARP-Challenge/Challenges)  
 
 ## Index
 
