@@ -14,3 +14,6 @@ Now branched as [_The ARP Challenge_](https://github.com/The-ARP-Challenge/Chall
 1. [Weekly Challenge 2](WC_02.ipynb) -- Delimited Data  
 1. [Weekly Challenge 3](WC_03.ipynb) -- Rolling Sum  
 1. [Weekly Challenge 4](WC_04.ipynb) -- Parsing Dates  
+1. [Weekly Challenge 5](WC_05.ipynb) -- Checking Values in a Dataframe    
+1. [Weekly Challenge 6](WC_06.ipynb) -- Dipping our toes with spatial    
+
