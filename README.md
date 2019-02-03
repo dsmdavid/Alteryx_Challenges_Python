@@ -17,5 +17,7 @@ Now branched as [_The ARP Challenge_](https://github.com/The-ARP-Challenge/Chall
 1. [Weekly Challenge 5](WC_05.ipynb) -- Checking Values in a Dataframe    
 1. [Weekly Challenge 6](WC_06.ipynb) -- Dipping our toes with spatial    
 1. [Weekly Challenge 7](WC_07.ipynb) -- Connect to Quandl API and parse JSON  
-1. [Weekly Challenge 8](WC_08.ipynb) -- Parse file, join and summarize          
+1. [Weekly Challenge 8](WC_08.ipynb) -- Parse file, join and summarize         
+1. [Weekly Challenge 8](WC_08.ipynb) -- Group and sorg           
+1. [Weekly Challenge 10](WC_10.ipynb) -- Calculate date difference and get dateparts from timedelta           
 
