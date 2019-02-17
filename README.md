@@ -20,4 +20,6 @@ Now branched as [_The ARP Challenge_](https://github.com/The-ARP-Challenge/Chall
 1. [Weekly Challenge 8](WC_08.ipynb) -- Parse file, join and summarize         
 1. [Weekly Challenge 9](WC_09.ipynb) -- Group and sort             
 1. [Weekly Challenge 10](WC_10.ipynb) -- Calculate date difference and get dateparts from timedelta           
+1. [Weekly Challenge 11](WC_11.ipynb) -- Find some keywords inside a text and group into buckets 
+
 
