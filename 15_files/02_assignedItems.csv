@@ -1,0 +1,216 @@
+,Store,Priority,City,State,Item,Required,Warehouse,Assigned
+0,A,26,Houston,TX,1,47,Main,47
+1,A,26,Houston,TX,2,29,Main,29
+2,A,26,Houston,TX,3,50,Main,50
+3,A,26,Houston,TX,4,12,Main,12
+4,A,26,Houston,TX,5,19,Main,19
+5,A,26,Houston,TX,6,72,Main,0
+6,A,26,Houston,TX,7,71,Main,13
+7,A,26,Houston,TX,8,2,Main,0
+8,A,26,Houston,TX,10,40,Main,40
+9,B,4,Birmingham,AL,2,46,Main,46
+10,B,4,Birmingham,AL,3,36,Main,36
+11,B,4,Birmingham,AL,4,7,Main,7
+12,B,4,Birmingham,AL,5,48,Main,48
+13,B,4,Birmingham,AL,6,71,Main,71
+14,B,4,Birmingham,AL,7,19,Main,19
+15,B,4,Birmingham,AL,10,4,Main,4
+16,C,25,Seattle,WA,1,34,Main,34
+17,C,25,Seattle,WA,2,52,Main,52
+18,C,25,Seattle,WA,3,66,Main,66
+19,C,25,Seattle,WA,4,17,Main,17
+20,C,25,Seattle,WA,6,3,Main,2
+21,C,25,Seattle,WA,7,57,Main,57
+22,C,25,Seattle,WA,8,77,Main,64
+23,C,25,Seattle,WA,10,13,Main,13
+24,D,3,Detroit,MI,2,1,Main,1
+25,D,3,Detroit,MI,3,76,Main,76
+26,D,3,Detroit,MI,4,46,Main,46
+27,D,3,Detroit,MI,6,21,Main,21
+28,D,3,Detroit,MI,7,40,Main,40
+29,D,3,Detroit,MI,10,41,Main,41
+30,E,5,Nashville,TN,1,44,Main,44
+31,E,5,Nashville,TN,2,14,Main,14
+32,E,5,Nashville,TN,5,75,Main,75
+33,E,5,Nashville,TN,6,32,Main,32
+34,E,5,Nashville,TN,7,14,Main,14
+35,E,5,Nashville,TN,8,76,Main,76
+36,E,5,Nashville,TN,10,42,Main,42
+37,F,2,Chicago,IL,1,71,Main,71
+38,F,2,Chicago,IL,2,28,Main,28
+39,F,2,Chicago,IL,3,46,Main,46
+40,F,2,Chicago,IL,4,54,Main,54
+41,F,2,Chicago,IL,5,9,Main,9
+42,F,2,Chicago,IL,6,52,Main,52
+43,F,2,Chicago,IL,7,43,Main,43
+44,F,2,Chicago,IL,8,33,Main,33
+45,F,2,Chicago,IL,9,59,Main,59
+46,F,2,Chicago,IL,10,16,Main,16
+47,G,24,Lansing,IA,1,60,Main,60
+48,G,24,Lansing,IA,2,2,Main,2
+49,G,24,Lansing,IA,3,51,Main,51
+50,G,24,Lansing,IA,4,66,Main,66
+51,G,24,Lansing,IA,5,47,Main,47
+52,G,24,Lansing,IA,6,28,Main,28
+53,G,24,Lansing,IA,7,66,Main,66
+54,G,24,Lansing,IA,9,30,Main,0
+55,G,24,Lansing,IA,10,55,Main,55
+56,H,1,Fayetteville,NC,1,11,Main,11
+57,H,1,Fayetteville,NC,2,69,Main,69
+58,H,1,Fayetteville,NC,3,5,Main,5
+59,H,1,Fayetteville,NC,4,41,Main,41
+60,H,1,Fayetteville,NC,5,54,Main,54
+61,H,1,Fayetteville,NC,7,28,Main,28
+62,H,1,Fayetteville,NC,8,57,Main,57
+63,H,1,Fayetteville,NC,9,17,Main,17
+64,H,1,Fayetteville,NC,10,36,Main,36
+65,I,23,Miami,FL,2,6,Main,6
+66,I,23,Miami,FL,4,73,Main,73
+67,I,23,Miami,FL,5,43,Main,43
+68,I,23,Miami,FL,6,3,Main,3
+69,I,23,Miami,FL,7,70,Main,70
+70,I,23,Miami,FL,8,70,Main,70
+71,I,23,Miami,FL,9,16,Main,0
+72,I,23,Miami,FL,10,17,Main,17
+73,J,22,Tampa,FL,1,71,Main,71
+74,J,22,Tampa,FL,2,35,Main,35
+75,J,22,Tampa,FL,4,5,Main,5
+76,J,22,Tampa,FL,5,79,Main,79
+77,J,22,Tampa,FL,6,9,Main,9
+78,J,22,Tampa,FL,7,38,Main,38
+79,J,22,Tampa,FL,9,55,Main,21
+80,J,22,Tampa,FL,10,72,Main,72
+81,K,21,Charleston,SC,1,44,Main,44
+82,K,21,Charleston,SC,2,13,Main,13
+83,K,21,Charleston,SC,3,63,Main,63
+84,K,21,Charleston,SC,4,73,Main,73
+85,K,21,Charleston,SC,6,62,Main,62
+86,K,21,Charleston,SC,7,61,Main,61
+87,K,21,Charleston,SC,8,20,Main,20
+88,K,21,Charleston,SC,10,25,Main,25
+89,L,6,Los Angeles,CA,1,26,Main,26
+90,L,6,Los Angeles,CA,3,10,Main,10
+91,L,6,Los Angeles,CA,4,35,Main,35
+92,L,6,Los Angeles,CA,5,62,Main,62
+93,L,6,Los Angeles,CA,6,16,Main,16
+94,L,6,Los Angeles,CA,7,73,Main,73
+95,L,6,Los Angeles,CA,8,35,Main,35
+96,L,6,Los Angeles,CA,9,78,Main,78
+97,L,6,Los Angeles,CA,10,33,Main,33
+98,M,20,Sacramento,CA,2,12,Main,12
+99,M,20,Sacramento,CA,3,23,Main,23
+100,M,20,Sacramento,CA,4,55,Main,55
+101,M,20,Sacramento,CA,5,46,Main,46
+102,M,20,Sacramento,CA,6,9,Main,9
+103,M,20,Sacramento,CA,7,4,Main,4
+104,M,20,Sacramento,CA,8,8,Main,8
+105,M,20,Sacramento,CA,9,76,Main,76
+106,M,20,Sacramento,CA,10,60,Main,60
+107,N,7,Tucson,AZ,2,9,Main,9
+108,N,7,Tucson,AZ,4,29,Main,29
+109,N,7,Tucson,AZ,5,12,Main,12
+110,N,7,Tucson,AZ,6,4,Main,4
+111,N,7,Tucson,AZ,7,36,Main,36
+112,N,7,Tucson,AZ,8,3,Main,3
+113,N,7,Tucson,AZ,10,8,Main,8
+114,O,8,Dallas,TX,1,15,Main,15
+115,O,8,Dallas,TX,2,35,Main,35
+116,O,8,Dallas,TX,5,30,Main,30
+117,O,8,Dallas,TX,6,43,Main,43
+118,O,8,Dallas,TX,8,78,Main,78
+119,O,8,Dallas,TX,9,48,Main,48
+120,O,8,Dallas,TX,10,64,Main,64
+121,P,19,Austin,TX,2,60,Main,60
+122,P,19,Austin,TX,3,33,Main,33
+123,P,19,Austin,TX,4,5,Main,5
+124,P,19,Austin,TX,5,9,Main,9
+125,P,19,Austin,TX,6,27,Main,27
+126,P,19,Austin,TX,7,62,Main,62
+127,P,19,Austin,TX,8,71,Main,71
+128,P,19,Austin,TX,9,30,Main,30
+129,P,19,Austin,TX,10,50,Main,50
+130,Q,9,Tulsa,OK,2,22,Main,22
+131,Q,9,Tulsa,OK,3,32,Main,32
+132,Q,9,Tulsa,OK,4,11,Main,11
+133,Q,9,Tulsa,OK,5,4,Main,4
+134,Q,9,Tulsa,OK,6,46,Main,46
+135,Q,9,Tulsa,OK,7,69,Main,69
+136,Q,9,Tulsa,OK,8,46,Main,46
+137,Q,9,Tulsa,OK,9,12,Main,12
+138,Q,9,Tulsa,OK,10,53,Main,53
+139,R,16,New York,NY,2,76,Main,76
+140,R,16,New York,NY,3,15,Main,15
+141,R,16,New York,NY,4,13,Main,13
+142,R,16,New York,NY,5,69,Main,69
+143,R,16,New York,NY,6,41,Main,41
+144,R,16,New York,NY,7,49,Main,49
+145,R,16,New York,NY,8,50,Main,50
+146,R,16,New York,NY,10,9,Main,9
+147,S,10,Baltimore,MD,1,23,Main,23
+148,S,10,Baltimore,MD,2,9,Main,9
+149,S,10,Baltimore,MD,4,27,Main,27
+150,S,10,Baltimore,MD,5,31,Main,31
+151,S,10,Baltimore,MD,6,31,Main,31
+152,S,10,Baltimore,MD,7,17,Main,17
+153,S,10,Baltimore,MD,8,69,Main,69
+154,S,10,Baltimore,MD,9,53,Main,53
+155,S,10,Baltimore,MD,10,21,Main,21
+156,T,15,Portland,OR,1,19,Main,19
+157,T,15,Portland,OR,2,66,Main,66
+158,T,15,Portland,OR,3,76,Main,76
+159,T,15,Portland,OR,4,56,Main,56
+160,T,15,Portland,OR,5,78,Main,78
+161,T,15,Portland,OR,6,53,Main,53
+162,T,15,Portland,OR,7,62,Main,62
+163,T,15,Portland,OR,8,2,Main,2
+164,T,15,Portland,OR,9,12,Main,12
+165,U,11,Philadelphia,PA,1,71,Main,71
+166,U,11,Philadelphia,PA,2,54,Main,54
+167,U,11,Philadelphia,PA,4,3,Main,3
+168,U,11,Philadelphia,PA,5,54,Main,54
+169,U,11,Philadelphia,PA,6,3,Main,3
+170,U,11,Philadelphia,PA,7,48,Main,48
+171,U,11,Philadelphia,PA,8,6,Main,6
+172,V,12,Boston,MA,1,65,Main,65
+173,V,12,Boston,MA,2,30,Main,30
+174,V,12,Boston,MA,3,4,Main,4
+175,V,12,Boston,MA,4,12,Main,12
+176,V,12,Boston,MA,5,50,Main,50
+177,V,12,Boston,MA,7,37,Main,37
+178,V,12,Boston,MA,8,10,Main,10
+179,V,12,Boston,MA,9,76,Main,76
+180,W,13,Helena,MT,1,76,Main,76
+181,W,13,Helena,MT,2,68,Main,68
+182,W,13,Helena,MT,3,10,Main,10
+183,W,13,Helena,MT,4,48,Main,48
+184,W,13,Helena,MT,5,65,Main,65
+185,W,13,Helena,MT,7,60,Main,60
+186,W,13,Helena,MT,8,15,Main,15
+187,W,13,Helena,MT,9,31,Main,31
+188,X,14,Denver,CO,1,8,Main,8
+189,X,14,Denver,CO,2,49,Main,49
+190,X,14,Denver,CO,3,57,Main,57
+191,X,14,Denver,CO,4,23,Main,23
+192,X,14,Denver,CO,5,25,Main,25
+193,X,14,Denver,CO,7,39,Main,39
+194,X,14,Denver,CO,8,45,Main,45
+195,X,14,Denver,CO,9,68,Main,68
+196,Y,18,Milwaukee,WI,1,6,Main,6
+197,Y,18,Milwaukee,WI,2,47,Main,47
+198,Y,18,Milwaukee,WI,4,1,Main,1
+199,Y,18,Milwaukee,WI,5,26,Main,26
+200,Y,18,Milwaukee,WI,6,64,Main,64
+201,Y,18,Milwaukee,WI,7,33,Main,33
+202,Y,18,Milwaukee,WI,8,41,Main,41
+203,Y,18,Milwaukee,WI,9,33,Main,33
+204,Y,18,Milwaukee,WI,10,7,Main,7
+205,Z,17,Las Vegas,NV,1,60,Main,60
+206,Z,17,Las Vegas,NV,2,25,Main,25
+207,Z,17,Las Vegas,NV,3,39,Main,39
+208,Z,17,Las Vegas,NV,4,45,Main,45
+209,Z,17,Las Vegas,NV,5,75,Main,75
+210,Z,17,Las Vegas,NV,6,18,Main,18
+211,Z,17,Las Vegas,NV,7,18,Main,18
+212,Z,17,Las Vegas,NV,8,25,Main,25
+213,Z,17,Las Vegas,NV,9,2,Main,2
+214,Z,17,Las Vegas,NV,10,10,Main,10
