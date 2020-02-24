@@ -25,3 +25,4 @@ Now branched as [_The ARP Challenge_](https://github.com/The-ARP-Challenge/Chall
 1. [Weekly Challenge 13](WC_13.ipynb) -- Parse HTML  
 1. [Weekly Challenge 14](WC_14.ipynb) -- Distributing goods - iterative macro  
 1. [Weekly Challenge 15](WC_15.ipynb) -- Distributing goods - spatial calculation - distances  
+1. [Weekly Challenge 181](WC_181.ipynb) -- Download JSON from URL and downstream manipulation    
