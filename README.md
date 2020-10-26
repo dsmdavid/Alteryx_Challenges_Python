@@ -28,3 +28,4 @@ Now branched as [_The ARP Challenge_](https://github.com/The-ARP-Challenge/Chall
 1. [Weekly Challenge 16](WC_16.ipynb) -- Reading and parsing data  
 1. [Weekly Challenge 17](WC_17.ipynb) -- Dates, summarizing, batch macro turned into a table  
 1. [Weekly Challenge 181](WC_181.ipynb) -- Download JSON from URL and downstream manipulation    
+1. [Weekly Challenge 239](WC_239.ipynb) -- Permutations and string manipulation in df.      
